@@ -1,9 +1,0 @@
-# Core SDKs for Microsoft Foundry (new portal)
-azure-ai-projects>=2.0.0
-azure-ai-agents>=1.0.0
-azure-identity>=1.19.0
-python-dotenv>=1.0.1
-
-# Notebook runtime
-ipykernel>=6.29.5
-matplotlib>=3.8.0
